@@ -1,9 +1,6 @@
 /*
 
-CSC 360 Assignment 3 Part 4
----------------------------
-Matthew Hodgson
-V00803081
+Writing to the disk image.
 
 */
 

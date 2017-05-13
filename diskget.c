@@ -1,9 +1,6 @@
 /*
 
-CSC 360 Assignment 3 Part 3
----------------------------
-Matthew Hodgson
-V00803081
+Get a file on disk.
 
 */
 

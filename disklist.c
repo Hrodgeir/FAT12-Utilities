@@ -1,9 +1,6 @@
 /*
 
-CSC 360 Assignment 3 Part 2
----------------------------
-Matthew Hodgson
-V00803081
+Listing what is on the disk.
 
 */
 

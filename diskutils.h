@@ -1,9 +1,6 @@
 /*
 
-CSC 360 Assignment 3 Header File
---------------------------------
-Matthew Hodgson
-V00803081
+Disk Utilities Header File
 
 */
 
